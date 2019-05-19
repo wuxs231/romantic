@@ -11,3 +11,4 @@ plt.axis([-2.5, 2.5, -3.5, 1.5])
 
 plt.title('coded by Lancer Wu', fontsize=16)
 plt.show()
+
